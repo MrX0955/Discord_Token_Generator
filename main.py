@@ -2,6 +2,7 @@ try:
     import random as KT
     import os
     import sys
+    import time
     from colorama import Fore, init
 except Exception:
     print(" ~ [♥] Görünüşe Göre Modülleriniz Eksik. Acaba Hangisi, Söylemem. :)")
