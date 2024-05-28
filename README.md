@@ -1,10 +1,8 @@
-# Discord-Token-Gen-Advanced-
-Discord Token Generator Advanced Python Tool!
+# 🐞 Discord-Token-Gen-Advanced
+**Discord Token Generator Advanced Python Tool!**
 
+##  👾 Features 
+- **_Supporting All Token Types_**
 
--KleinTitra
--[DefaceR]MrX ..!
-
-Tüm Token Türleri Ele Alınmıştır.
-
-İyi Kullanımlar...
+## ⚠️ DISCLAIMER 
+**This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.**
